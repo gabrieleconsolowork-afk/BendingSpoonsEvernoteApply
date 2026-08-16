@@ -30,7 +30,7 @@ const Check = () => <img src="/assets/icons/check.svg" alt="" width="20" height=
 
 export default function Upgrade() {
   useEffect(() => {
-    document.title = "Upgrade Evernote — Free to Personal or Professional";
+    document.title = "Concept Design";
     document.body.classList.add("upgrade");
     return () => document.body.classList.remove("upgrade");
   }, []);
