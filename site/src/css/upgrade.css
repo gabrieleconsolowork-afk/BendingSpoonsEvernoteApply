@@ -162,6 +162,8 @@
   height: auto;
   display: block;
   margin-inline: auto;
+  background-color: var(--color-ivory-card);
+  object-fit: contain;
 }
 
 .up-hero-visual .up-hero-video-mobile {
@@ -892,6 +894,9 @@
   .up-hero-visual .up-hero-video-mobile {
     display: block;
     width: 100%;
+    height: auto;
+    background-color: var(--color-ivory-card);
+    object-fit: contain;
   }
 
   .up-bridge {
