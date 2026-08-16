@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280">
+  <rect width="720" height="280" fill="#F9F6F2"/>
+  <text x="24" y="36" font-family="Figtree, Inter, sans-serif" font-size="16" fill="#141414">Evernote palette</text>
+  <g font-family="Figtree, Inter, sans-serif" font-size="11" fill="#141414">
+    <rect x="24" y="56" width="80" height="80" fill="#00A82D"/><text x="24" y="154">#00A82D</text>
+    <rect x="116" y="56" width="80" height="80" fill="#94E130"/><text x="116" y="154">#94E130</text>
+    <rect x="208" y="56" width="80" height="80" fill="#F9F6F2" stroke="#E7E7E7"/><text x="208" y="154">#F9F6F2</text>
+    <rect x="300" y="56" width="80" height="80" fill="#F4EEE5"/><text x="300" y="154">#F4EEE5</text>
+    <rect x="392" y="56" width="80" height="80" fill="#FFFFFF" stroke="#E7E7E7"/><text x="392" y="154">#FFFFFF</text>
+    <rect x="484" y="56" width="80" height="80" fill="#141414"/><text x="484" y="154" fill="#141414">#141414</text>
+    <rect x="576" y="56" width="80" height="80" fill="#000000"/><text x="576" y="154">#000000</text>
+    <rect x="24" y="176" width="80" height="48" fill="#4E4D4C"/><text x="24" y="242">#4E4D4C</text>
+    <rect x="116" y="176" width="80" height="48" fill="#A1A1A1"/><text x="116" y="242">#A1A1A1</text>
+    <rect x="208" y="176" width="80" height="48" fill="#E7E7E7"/><text x="208" y="242">#E7E7E7</text>
+    <rect x="300" y="176" width="80" height="48" fill="#4D64FF"/><text x="300" y="242">#4D64FF</text>
+    <rect x="392" y="176" width="80" height="48" fill="#E2A62F"/><text x="392" y="242">#E2A62F</text>
+    <rect x="484" y="176" width="80" height="48" fill="#E54E40"/><text x="484" y="242">#E54E40</text>
+    <rect x="576" y="176" width="80" height="48" fill="#5BB4D0"/><text x="576" y="242">#5BB4D0</text>
+  </g>
+</svg>

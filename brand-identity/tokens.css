@@ -1,0 +1,79 @@
+:root {
+  /* Logo */
+  --color-evernote-green: #00A82D;
+  --color-lime-sprout: #94E130;
+
+  /* Surfaces */
+  --color-paper-cream: #F9F6F2;
+  --color-ivory-card: #F4EEE5;
+  --color-pure-white: #FFFFFF;
+  --color-onyx: #000000;
+
+  /* Text */
+  --color-charcoal: #141414;
+  --color-iron: #262626;
+  --color-graphite: #4E4D4C;
+  --color-stone: #737373;
+  --color-smoke: #A1A1A1;
+
+  /* Stroke */
+  --color-slate-border: #E7E7E7;
+
+  /* Category accents (feature-card icon squares) */
+  --color-accent-blue: #4D64FF;
+  --color-accent-gold: #E2A62F;
+  --color-accent-red: #E54E40;
+  --color-accent-cyan: #5BB4D0;
+
+  /* Light theme aliases (from evernote.com CSS) */
+  --color-text-primary: var(--color-charcoal);
+  --color-text-secondary: var(--color-iron);
+  --color-text-tertiary: var(--color-graphite);
+  --color-bg-primary: var(--color-paper-cream);
+  --color-bg-secondary: var(--color-ivory-card);
+  --color-stroke-buttons: var(--color-smoke);
+  --color-stroke-cards: var(--color-slate-border);
+
+  /* Type */
+  --font-figtree: "Figtree", ui-sans-serif, system-ui, sans-serif;
+  --font-inter: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+
+  --text-caption: 12px;
+  --text-body-sm: 14px;
+  --text-body: 16px;
+  --text-subheading: 20px;
+  --text-heading-sm: 24px;
+  --text-heading: 40px;
+  --text-heading-lg: 50px;
+  --text-display: 72px;
+
+  --tracking-display: -3.6px;
+  --tracking-heading-lg: -2.5px;
+  --tracking-heading: -2px;
+  --tracking-heading-sm: -0.72px;
+
+  /* Space / radius */
+  --spacing-unit: 8px;
+  --page-max-width: 1200px;
+  --section-gap: 80px;
+  --card-padding: 32px;
+  --radius-buttons: 5px;
+  --radius-nav: 5px;
+  --radius-cards: 10px;
+  --radius-large-cards: 16px;
+  --radius-pills: 52px;
+}
+
+.theme-dark {
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #FDFCFC;
+  --color-text-tertiary: #F3F2F1;
+  --color-bg-primary: #141414;
+  --color-bg-secondary: #262626;
+  --color-stroke-buttons: #FFFFFF66;
+  --color-stroke-cards: #FFFFFF33;
+}
