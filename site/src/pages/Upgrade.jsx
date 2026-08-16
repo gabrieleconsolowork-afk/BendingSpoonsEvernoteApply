@@ -84,7 +84,7 @@ export default function Upgrade() {
                 height="534"
                 aria-label="Evernote product preview"
               >
-                <source src="/assets/images/upgrade-hero.webm" type="video/webm" />
+                <source src="/assets/assets/Frame 1.webm" type="video/webm" />
               </video>
               <video
                 className="up-hero-video-mobile"
