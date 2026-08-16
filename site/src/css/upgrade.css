@@ -163,7 +163,6 @@
   display: block;
   margin-inline: auto;
   background-color: var(--color-ivory-card);
-  object-fit: contain;
 }
 
 .up-hero-visual .up-hero-video-mobile {
@@ -895,8 +894,9 @@
     display: block;
     width: 100%;
     height: auto;
+    aspect-ratio: 1920 / 1548;
+    object-fit: cover;
     background-color: var(--color-ivory-card);
-    object-fit: contain;
   }
 
   .up-bridge {

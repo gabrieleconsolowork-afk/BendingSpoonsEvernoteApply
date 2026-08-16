@@ -92,11 +92,12 @@ export default function Upgrade() {
                 muted
                 loop
                 playsInline
-                poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='390' height='844'%3E%3Crect width='100%25' height='100%25' fill='%23f4eee5'/%3E%3C/svg%3E"
-                width="390"
-                height="844"
+                poster="/assets/assets/Frame 1 mobile poster.jpg"
+                width="1920"
+                height="1548"
                 aria-label="Evernote product preview"
               >
+                <source src="/assets/assets/Frame 1 mobile.mp4" type="video/mp4" />
                 <source src="/assets/assets/Frame 1 mobile.webm" type="video/webm" />
               </video>
             </div>
