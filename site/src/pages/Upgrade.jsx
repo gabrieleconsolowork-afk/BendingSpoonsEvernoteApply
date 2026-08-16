@@ -74,6 +74,7 @@ export default function Upgrade() {
             </div>
             <div className="up-hero-visual">
               <video
+                className="up-hero-video-desktop"
                 autoPlay
                 muted
                 loop
@@ -84,6 +85,18 @@ export default function Upgrade() {
                 aria-label="Evernote product preview"
               >
                 <source src="/assets/images/upgrade-hero.webm" type="video/webm" />
+              </video>
+              <video
+                className="up-hero-video-mobile"
+                autoPlay
+                muted
+                loop
+                playsInline
+                width="390"
+                height="844"
+                aria-label="Evernote product preview"
+              >
+                <source src="/assets/assets/Frame 1 mobile.webm" type="video/webm" />
               </video>
             </div>
           </div>

@@ -164,6 +164,10 @@
   margin-inline: auto;
 }
 
+.up-hero-visual .up-hero-video-mobile {
+  display: none;
+}
+
 .up-note {
   font-size: 14px;
   color: var(--color-stone);
@@ -879,6 +883,15 @@
 @media (max-width: 720px) {
   .up-anchor {
     white-space: normal;
+  }
+
+  .up-hero-visual .up-hero-video-desktop {
+    display: none;
+  }
+
+  .up-hero-visual .up-hero-video-mobile {
+    display: block;
+    width: 100%;
   }
 
   .up-bridge {
